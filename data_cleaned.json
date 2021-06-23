@@ -404,7 +404,7 @@
     "Release date": [
       "July 17, 1943"
     ],
-    "Running time": "65 min.",
+    "Running time": "70 min",
     "Country": "United States",
     "Language": "English",
     "Budget": "$788,000",
@@ -596,7 +596,6 @@
       "Walt Disney",
       "Clarence Nash",
       "Pinto Colvig",
-      "Ruth Clifford",
       "Billy Gilbert",
       "Anita Gordon"
     ],
@@ -824,7 +823,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "February 22, 1950 (Boston)",
+      "February 15, 1950 (Boston)",
       "March 4, 1950 (United States)"
     ],
     "Running time": "74 minutes",
@@ -879,18 +878,18 @@
     ],
     "Produced by": "Walt Disney",
     "Story by": [
-      "Milt Banta",
-      "Del Connell",
-      "Bill Cottrell",
-      "Joe Grant",
       "Winston Hibler",
-      "Dick Huemer",
-      "Dick Kelsey",
-      "Tom Oreb",
+      "Ted Sears",
       "Bill Peet",
       "Erdman Penner",
       "Joe Rinaldi",
-      "Ted Sears",
+      "Milt Banta",
+      "Bill Cottrell",
+      "Dick Kelsey",
+      "Joe Grant",
+      "Dick Huemer",
+      "Del Connell",
+      "Tom Oreb",
       "John Walbridge"
     ],
     "Based on": [
@@ -1036,7 +1035,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "August 8, 1953 ( US )"
+      "July 23, 1953 ('US )"
     ],
     "Running time": "92 minutes",
     "Countries": [
@@ -1067,7 +1066,9 @@
     "Edited by": "Norman R. Palmer",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "November 10, 1953",
+    "Release date": [
+      "November 10, 1953"
+    ],
     "Running time": "69 minutes",
     "Country": "United States",
     "Language": "English",
@@ -1097,7 +1098,7 @@
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
       "26 October 1953 (Premiere- London )",
-      "4 February 1954 ( US )"
+      "27 February 1954 ( US )"
     ],
     "Running time": "81 minutes",
     "Countries": [
@@ -1566,20 +1567,12 @@
       "Sal Mineo",
       "Philip Carey",
       "Jerome Courtland",
-      "Rafael Campos",
-      "H.M. Wynant",
-      "Joy Page",
-      "Britt Lomond",
-      "Herbert Rudley",
-      "Sydney Smith",
-      "John War Eagle",
-      "Gregg Martel",
-      "Slim Pickens",
-      "Robert 'Buzz' Henry"
+      "Rafael Campos"
     ],
     "Music by": "Oliver Wallace",
     "Cinematography": "Loyal Griggs",
     "Edited by": "Ellsworth Hoagland",
+    "Color process": "Technicolor",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
@@ -1872,7 +1865,6 @@
     ],
     "Starring": [
       "Brian Keith",
-      "Ben Johnson",
       "John Beal",
       "James Drury"
     ],
@@ -1882,6 +1874,7 @@
       "Norman Palmer",
       "Cotton Warburton"
     ],
+    "Color process": "Technicolor",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
@@ -2421,8 +2414,8 @@
     "title": "Savage Sam",
     "Directed by": "Norman Tokar",
     "Produced by": [
-      "Walt Disney",
-      "Ron Miller"
+      "Bill Anderson",
+      "(co-producer)"
     ],
     "Written by": [
       "Fred Gipson",
@@ -2440,9 +2433,12 @@
     "Music by": "Oliver Wallace",
     "Cinematography": "Edward Colman",
     "Edited by": "Grant K. Smith",
+    "Color process": "Technicolor",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 1, 1963",
+    "Release date": [
+      "June 1, 1963"
+    ],
     "Running time": "103 Minutes",
     "Country": "United States",
     "Language": "English",
@@ -2676,7 +2672,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "July 2, 1964"
+      "July 8, 1964"
     ],
     "Running time": "118 minutes",
     "Language": "English",
@@ -2717,7 +2713,8 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "August 27, 1964"
+      "August 27, 1964 (LA)",
+      "September 24, 1964 (NY)"
     ],
     "Running time": "139 minutes",
     "Country": "United States",
@@ -2767,7 +2764,7 @@
     "Starring": [
       "Brian Keith",
       "Vera Miles",
-      "Brandon de Wilde",
+      "Brandon deWilde",
       "Walter Brennan",
       "Ed Wynn",
       "Linda Evans"
@@ -3203,7 +3200,7 @@
       "(General release)",
       "172 minutes",
       "(",
-      "Director's Cut",
+      "Director's cut",
       ")"
     ],
     "Country": "United States",
@@ -4569,7 +4566,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "June 22, 1977"
+      "June 20, 1977"
     ],
     "Running time": "48 minutes",
     "Country": "United States",
@@ -4672,7 +4669,7 @@
     "Screenplay by": "Malcolm Marmorstein",
     "Story by": [
       "Seton I. Miller",
-      "S.S. Field"
+      "S. S. Field"
     ],
     "Starring": [
       "Helen Reddy",
@@ -4941,31 +4938,6 @@
     "Box office": [
       "$35.8 million"
     ]
-  },
-  {
-    "title": "The Omega Connection",
-    "Directed by": "Robert Clouse",
-    "Produced by": "Jan Williams",
-    "Written by": [
-      "Gail Morgan Hickman",
-      "David E. Boston"
-    ],
-    "Starring": [
-      "Jeffrey Byron",
-      "Larry Cedar"
-    ],
-    "Music by": "John Cameron",
-    "Cinematography": "Godfrey A. Godar",
-    "Edited by": [
-      "Peter Boita",
-      "Mike Campbell"
-    ],
-    "Production company": "Walt Disney Productions",
-    "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 21, 1979",
-    "Running time": "100 minutes",
-    "Country": "United States",
-    "Language": "English"
   },
   {
     "title": "Midnight Madness",
@@ -5495,7 +5467,7 @@
     ],
     "Production companies": [
       "Walt Disney Productions",
-      "Bryna Productions"
+      "The Bryna Company"
     ],
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
@@ -5652,7 +5624,7 @@
     ],
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "July 26, 1985"
+      "July 24, 1985"
     ],
     "Running time": "80 minutes",
     "Country": "United States",
@@ -6069,7 +6041,7 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "November 17, 1989"
+      "November 15, 1989"
     ],
     "Running time": "83 minutes",
     "Country": "United States",
@@ -6302,6 +6274,7 @@
       "Bill Campbell",
       "Alan Arkin",
       "Jennifer Connelly",
+      "Paul Sorvino",
       "Timothy Dalton"
     ],
     "Music by": "James Horner",
@@ -6311,12 +6284,12 @@
       "Arthur Schmidt"
     ],
     "Production companies": [
-      "Walt Disney Pictures (United States)",
+      "Walt Disney Pictures (North America)",
       "Touchstone Pictures (International)",
       "Silver Screen Partners IV",
       "Gordon Company"
     ],
-    "Distributed by": "Buena Vista Pictures",
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
       "June 21, 1991"
     ],
@@ -6390,19 +6363,7 @@
     ],
     "Starring": [
       "Christian Bale",
-      "Gabriel Damon",
-      "Luke Edwards",
-      "Max Casella",
-      "Michael Lerner",
-      "Marty Belafsky",
-      "Aaron Lohr",
-      "Trey Parker",
-      "Arvie Lowe Jr.",
-      "Kevin Tighe",
-      "Charles Cioffi",
-      "Ele Keats",
-      "Jeffrey DeMunn",
-      "Deborra-Lee Furness",
+      "Bill Pullman",
       "Ann-Margret",
       "Robert Duvall"
     ],
@@ -6781,6 +6742,7 @@
       "Doug E. Doug",
       "Rawle D. Lewis",
       "Malik Yoba",
+      "Raymond J. Barry",
       "John Candy"
     ],
     "Music by": "Hans Zimmer",
@@ -6937,7 +6899,7 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "March 25, 1994"
+      "April 17, 1994"
     ],
     "Running time": "106 minutes",
     "Country": "United States",
@@ -6961,7 +6923,7 @@
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "April 15, 1994"
+      "April 14, 1994"
     ],
     "Running time": "102 minutes",
     "Country": "United States",
@@ -7001,8 +6963,8 @@
       "Francis Glebas"
     ],
     "Starring": [
-      "Jonathan Taylor Thomas",
       "Matthew Broderick",
+      "Jonathan Taylor Thomas",
       "James Earl Jones",
       "Jeremy Irons",
       "Moira Kelly",
@@ -7178,12 +7140,7 @@
       "Jungle Book Films",
       "Walt Disney Pictures"
     ],
-    "Distributed by": [
-      "Buena Vista Pictures",
-      "(North America and other select territories)",
-      "MDP Worldwide",
-      "(all other territories)"
-    ],
+    "Distributed by": "Buena Vista Pictures",
     "Release date": [
       "December 25, 1994"
     ],
@@ -7325,11 +7282,11 @@
     "Directed by": "Kevin Lima",
     "Produced by": "Dan Rounds",
     "Screenplay by": [
-      "Jymm Magon",
+      "Jymn Magon",
       "Chris Matheson",
       "Brian Pimental"
     ],
-    "Story by": "Jymm Magon",
+    "Story by": "Jymn Magon",
     "Based on": [
       "Robert Taylor",
       "Michael Peraza Jr."
@@ -7402,6 +7359,7 @@
       "Linda Hunt",
       "Danny Mann",
       "Billy Connolly",
+      "Joe Baker",
       "Frank Welker"
     ],
     "Music by": "Alan Menken",
@@ -7416,10 +7374,7 @@
     ],
     "Running time": "81 minutes",
     "Country": "United States",
-    "Languages": [
-      "English",
-      "Eastern Algonquian"
-    ],
+    "Language": "English",
     "Budget": "$55 million",
     "Box office": "$346.1 million"
   },
@@ -7480,7 +7435,7 @@
       "Art Malik"
     ],
     "Music by": "J. A. C. Redford",
-    "Cinematography": "László Gárdonyi",
+    "Cinematography": "Elemér Ragályi",
     "Edited by": [
       "Anita Brandt-Burgoyne",
       "Michael Ripps"
@@ -7530,7 +7485,7 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "September 29, 1995"
+      "September 28, 1995"
     ],
     "Running time": "99 minutes",
     "Country": "United States",
@@ -7833,7 +7788,7 @@
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$100 million",
+    "Budget": "$70 million",
     "Box office": "$325.3 million"
   },
   {
@@ -7933,12 +7888,12 @@
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "November 27, 1996"
+      "November 27, 1996 (United States)"
     ],
     "Running time": "103 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$75 million",
+    "Budget": "$67 million",
     "Box office": "$320.7 million"
   },
   {
@@ -7997,9 +7952,19 @@
     "Starring": [
       "Tim Allen",
       "Martin Short",
+      "Sam Huntington",
       "Lolita Davidovich",
       "David Ogden Stiers",
-      "JoBeth Williams"
+      "JoBeth Williams",
+      "Leelee Sobieski",
+      "Adam LeFevre",
+      "Valerie Mahaffey",
+      "Luis Avalos",
+      "Frankie J. Galasso",
+      "Bob Dishy",
+      "Carole Shelley",
+      "Rondi Reed",
+      "Dominic Keating"
     ],
     "Music by": "Michael Convertino",
     "Cinematography": "Tony Pierce-Roberts",
@@ -8071,7 +8036,7 @@
     "Edited by": "Tom Finan",
     "Production companies": [
       "Walt Disney Pictures",
-      "Walt Disney Animation Studios"
+      "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
@@ -8107,8 +8072,8 @@
       "Leslie Mann",
       "Thomas Haden Church",
       "Holland Taylor",
-      "Richard Roundtree",
-      "John Cleese"
+      "John Cleese",
+      "Richard Roundtree"
     ],
     "Narrated by": "Keith Scott",
     "Music by": "Marc Shaiman",
@@ -8157,6 +8122,7 @@
     "Cinematography": "Mike Southon",
     "Edited by": "Alison Grace",
     "Production companies": [
+      "Walt Disney Pictures",
       "Keystone Pictures",
       "Buddy Films, Inc."
     ],
@@ -8347,7 +8313,11 @@
       "Raymond Singer"
     ],
     "Story by": "Robert D. San Souci",
-    "Based on": "Ballad of Mulan by Guo Maoqian",
+    "Based on": [
+      "Ballad of Mulan",
+      "by",
+      "Guo Maoqian"
+    ],
     "Starring": [
       "Ming-Na Wen",
       "Eddie Murphy",
@@ -8522,7 +8492,7 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "December 24, 1998"
+      "December 25, 1998"
     ],
     "Running time": "114 minutes",
     "Country": "United States",
@@ -8579,7 +8549,7 @@
       "Bruce Knapp",
       "Jack Spillum"
     ],
-    "Screenplay by": "Ken Scarborough",
+    "Written by": "Ken Scarborough",
     "Based on": [
       "Doug",
       "by Jim Jinkins"
@@ -8736,7 +8706,8 @@
     ],
     "Screenplay by": [
       "Kerry Ehrin",
-      "Zak Penn"
+      "Zak Penn",
+      "Audrey Wells (uncredited)"
     ],
     "Story by": [
       "Kerry Ehrin",
@@ -8810,8 +8781,10 @@
       "Le Studio Canal+"
     ],
     "Distributed by": [
-      "Buena Vista Pictures",
-      "(United States)",
+      "Walt Disney Pictures",
+      "(United States; through",
+      "Buena Vista Pictures Distribution",
+      ")",
       "FilmFour Distributors (United Kingdom)",
       "BAC Films",
       "(France)"
@@ -8832,7 +8805,9 @@
   },
   {
     "title": "Toy Story 2",
-    "Directed by": "John Lasseter",
+    "Directed by": [
+      "John Lasseter"
+    ],
     "Produced by": [
       "Helene Plotkin",
       "Karen Robert Jackson"
@@ -9081,8 +9056,11 @@
       "Peter Honess",
       "David Rennie"
     ],
-    "Production company": "Walt Disney Pictures",
-    "Distributed by": "Buena Vista Pictures",
+    "Production companies": [
+      "Walt Disney Pictures",
+      "Junction Entertainment"
+    ],
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
       "July 7, 2000"
     ],
@@ -9093,7 +9071,7 @@
     "Box office": "$110.3 million"
   },
   {
-    "title": "Remember The Titans",
+    "title": "Remember the Titans",
     "Directed by": "Boaz Yakin",
     "Produced by": [
       "Jerry Bruckheimer",
@@ -9138,6 +9116,11 @@
       "Kristen Buckley",
       "Brian Regan"
     ],
+    "Based on": [
+      "The Hundred and One Dalmatians",
+      "by",
+      "Dodie Smith"
+    ],
     "Starring": [
       "Glenn Close",
       "Ioan Gruffudd",
@@ -9153,9 +9136,9 @@
       "Cruella Productions",
       "Kanzaman S.A.M. Films"
     ],
-    "Distributed by": "Buena Vista Pictures",
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "November 22, 2000"
+      "November 22, 2000 (United States)"
     ],
     "Running time": "100 minutes",
     "Country": "United States",
@@ -9275,6 +9258,9 @@
       "Jackie Zabel",
       "Tab Murphy"
     ],
+    "Based on": [
+      "Atlantis"
+    ],
     "Starring": [
       "Michael J. Fox",
       "James Garner",
@@ -9393,8 +9379,7 @@
   {
     "title": "Monsters, Inc.",
     "Directed by": [
-      "Pete Docter",
-      "David Silverman"
+      "Pete Docter"
     ],
     "Produced by": "Darla K. Anderson",
     "Screenplay by": [
@@ -9596,7 +9581,7 @@
       "Jeffrey Chernov"
     ],
     "Written by": "Mark Perez",
-    "Based on": "Walt Disney 's Country Bear Jamboree",
+    "Based on": "Country Bear Jamboree",
     "Starring": [
       "Christopher Walken",
       "Daryl \"Chill\" Mitchell",
@@ -9645,8 +9630,7 @@
     "Production company": "Studio Ghibli",
     "Distributed by": "Toho",
     "Release date": [
-      "July 20, 2001 (Japan)",
-      "December 20, 2002 (United States)"
+      "July 20, 2001 (Japan)"
     ],
     "Running time": "125 minutes",
     "Country": "Japan",
@@ -10082,8 +10066,7 @@
       "Jonathan Pryce"
     ],
     "Music by": [
-      "Klaus Badelt",
-      "Hans Zimmer"
+      "Klaus Badelt"
     ],
     "Cinematography": "Dariusz Wolski",
     "Edited by": [
@@ -10204,11 +10187,7 @@
       "Don Hahn"
     ],
     "Written by": "David Berenbaum",
-    "Based on": [
-      "The Haunted Mansion",
-      "by",
-      "Walt Disney"
-    ],
+    "Based on": "The Haunted Mansion",
     "Starring": [
       "Eddie Murphy",
       "Terence Stamp",
@@ -10337,7 +10316,7 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "February 6, 2004"
+      "February 20, 2004"
     ],
     "Running time": "136 minutes",
     "Country": "United States",
@@ -10370,7 +10349,7 @@
     "Cinematography": "Stephen H. Burum",
     "Edited by": "Anita Brandt-Burgoyne",
     "Production company": "Walt Disney Pictures",
-    "Distributed by": "Buena Vista Pictures",
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
       "February 17, 2004 (United States)"
     ],
@@ -10492,11 +10471,12 @@
     "Cinematography": "Phil Meheux",
     "Edited by": "Tom Lewis",
     "Production companies": [
+      "Walt Disney Pictures",
       "Walden Media",
       "Spanknyce Films",
       "Mostow/Lieberman Productions"
     ],
-    "Distributed by": "Buena Vista Pictures",
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
       "April 6, 2004"
     ],
@@ -10605,6 +10585,7 @@
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
+      "October 24, 2004 ( El Capitan Theatre )",
       "October 27, 2004 ( BFI London Film Festival )",
       "November 5, 2004 (United States)"
     ],
@@ -10763,7 +10744,7 @@
       "Walt Disney Pictures",
       "Spyglass Entertainment"
     ],
-    "Distributed by": "Buena Vista Pictures",
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
       "March 4, 2005"
     ],
@@ -10912,7 +10893,7 @@
       "Walt Disney Pictures",
       "Gunn Films"
     ],
-    "Distributed by": "Buena Vista Pictures",
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
       "July 29, 2005"
     ],
@@ -11035,7 +11016,7 @@
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
-    "Distributed by": "Buena Vista Pictures",
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
       "October 30, 2005 ( El Capitan Theatre )",
       "November 4, 2005 (United States)"
@@ -11087,7 +11068,8 @@
     "Release date": [
       "December 7, 2005 ( Royal Film Performance )",
       "December 8, 2005 (United Kingdom)",
-      "December 9, 2005 (United States)"
+      "December 9, 2005 (United States)",
+      "February 13, 2009 ( Disney XD )"
     ],
     "Running time": "143 minutes",
     "Countries": [
@@ -11132,7 +11114,7 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": "January 13, 2006",
-    "Running time": "106 minutes",
+    "Running time": "118 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
@@ -11290,6 +11272,7 @@
       "Steven L. Wagner"
     ],
     "Production companies": [
+      "Walt Disney Pictures",
       "Hoytyboy Pictures",
       "Sir Zip Productions",
       "Contrafilm"
@@ -11476,7 +11459,7 @@
     "Running time": "76 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$26 million",
+    "Budget": "$18 million",
     "Box office": "$91.5 million"
   },
   {
@@ -11669,7 +11652,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$300 million",
-    "Box office": "$961 million"
+    "Box office": "$960.9 million"
   },
   {
     "title": "Ratatouille",
@@ -11705,7 +11688,7 @@
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
-    "Distributed by": "Buena Vista Pictures Distribution",
+    "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
       "June 22, 2007 ( Kodak Theatre )",
       "June 29, 2007 (United States)"
@@ -12064,6 +12047,7 @@
       "Danielle Feinberg"
     ],
     "Edited by": "Stephen Schaffer",
+    "Animation by": "Ralph Eggleston",
     "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
@@ -12183,10 +12167,7 @@
       "October 17, 2008 (London)",
       "October 24, 2008 (United States)"
     ],
-    "Running time": [
-      "111 minutes (theatrical)",
-      "120 minutes (extended/Disney+)"
-    ],
+    "Running time": "111 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$11 million",
@@ -12432,7 +12413,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$170  million"
+    "Box office": "$170 million"
   },
   {
     "title": "Earth",
@@ -12451,6 +12432,7 @@
     ],
     "Narrated by": [
       "Patrick Stewart",
+      "Anggun",
       "James Earl Jones",
       "Constantino Romero",
       "Ulrich Tukur",
@@ -12541,13 +12523,9 @@
     "title": "Hexe Lilli: Der Drache und das magische Buch",
     "Directed by": "Stefan Ruzowitzky",
     "Music by": "Ian Honeyman",
-    "Countries": [
-      "Germany",
-      "Austria",
-      "Italy",
-      "Spain",
-      "United Kingdom"
-    ],
+    "Production company": "Walt Disney Pictures",
+    "Distributed by": "Buena Vista International Germany",
+    "Country": "Germany",
     "Language": "German"
   },
   {
@@ -12650,6 +12628,7 @@
     "Release date": [
       "2008"
     ],
+    "Running time": "107 minutes",
     "Country": "United States",
     "Language": "English"
   },
@@ -13099,16 +13078,8 @@
     ],
     "Music by": "Tamiya Terashima",
     "Edited by": "Takeshi Seyama",
-    "Production companies": [
-      "Walt Disney Pictures",
-      "Studio Ghibli"
-    ],
-    "Distributed by": [
-      "Toho",
-      "(Japan)",
-      "Walt Disney Studios Motion Pictures",
-      "(North América)"
-    ],
+    "Production company": "Studio Ghibli",
+    "Distributed by": "Toho",
     "Release date": [
       "July 29, 2006"
     ],
@@ -13337,6 +13308,8 @@
       "Jeff Bridges",
       "Olivia Wilde",
       "Bruce Boxleitner",
+      "James Frain",
+      "Beau Garrett",
       "Michael Sheen"
     ],
     "Music by": "Daft Punk",
@@ -13472,14 +13445,9 @@
       "Lancy Fernandes",
       "Svati Chakravarty Bhatkal"
     ],
-    "Story by": [
-      "Satyajit Bhatkal",
-      "Lancy Fernandes",
-      "Svati Chakravarty Bhatkal"
-    ],
     "Starring": [
       "Darsheel Safary",
-      "Manjari Phadnis",
+      "Manjari Fadnis",
       "Anupam Kher"
     ],
     "Music by": "Shankar-Ehsaan-Loy",
@@ -13909,10 +13877,10 @@
       "Ronnie Screwvala",
       "Siddharth Roy Kapur"
     ],
-    "Screenplay by": "Rajesh Devraj",
+    "Written by": "Rajesh Devraj",
     "Music by": [
       "Songs:",
-      "Vishal Shekhar",
+      "Vishal-Shekhar",
       "Background Score:",
       "Dhruv Ghanekar"
     ],
@@ -13920,10 +13888,13 @@
     "Edited by": "A. Sreekar Prasad",
     "Production companies": [
       "Walt Disney Pictures",
-      "Walt Disney Pictures India",
       "UTV Motion Pictures"
     ],
-    "Distributed by": "UTV Motion Pictures",
+    "Distributed by": [
+      "UTV Motion Pictures (India)",
+      "Walt Disney Pictures",
+      "(International)"
+    ],
     "Release date": [
       "25 May 2012"
     ],
@@ -14535,7 +14506,7 @@
       "Hindi"
     ],
     "Budget": "$25 million",
-    "Box office": "$39.2 million"
+    "Box office": "$40.2 million"
   },
   {
     "title": "Maleficent",
@@ -14890,7 +14861,7 @@
       "United Kingdom"
     ],
     "Language": "English",
-    "Budget": "$95–100 million",
+    "Budget": "$84.21-95 million",
     "Box office": "$542.4 million"
   },
   {
@@ -15020,7 +14991,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175 million",
-    "Box office": "$858 million"
+    "Box office": "$858.8 million"
   },
   {
     "title": "ABCD 2",
@@ -15034,19 +15005,23 @@
       "Tushar Hiranandani"
     ],
     "Story by": "Remo D'Souza",
+    "Based on": [
+      "Suresh & Vernon",
+      "of the",
+      "Fictitious Crew"
+    ],
     "Starring": [
+      "Prabhu Deva",
       "Varun Dhawan",
       "Shraddha Kapoor",
-      "Prabhu Deva",
       "Lauren Gottlieb",
       "Raghav Juyal",
       "Punit Pathak",
-      "Nikhil Kasare",
       "Dharmesh Yelande"
     ],
     "Music by": "Sachin–Jigar",
     "Cinematography": "Vijay Kumar Arora",
-    "Edited by": "Manan Sagar, Sagar Mudak",
+    "Edited by": "Manan Sagar , Sagor Mudak",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "UTV Motion Pictures",
     "Release date": [
@@ -15431,6 +15406,10 @@
       "Mister Smith Entertainment",
       "(",
       "EMEA",
+      ")",
+      "Reliance Entertainment",
+      "(",
+      "India",
       ")"
     ],
     "Release date": [
@@ -15546,6 +15525,7 @@
       "Ron Clements",
       "John Musker"
     ],
+    "Based on": "Māui",
     "Starring": [
       "Auliʻi Cravalho",
       "Dwayne Johnson",
@@ -15583,7 +15563,7 @@
     ],
     "Language": "English",
     "Budget": "$150–175 million",
-    "Box office": "$690.8 million"
+    "Box office": "$644,962,539"
   },
   {
     "title": "Dangal",
@@ -15599,6 +15579,13 @@
       "Shreyas Jain",
       "Nikhil Meharotra"
     ],
+    "Story by": [
+      "Curation:",
+      "Nitesh Tiwari",
+      "Concept:",
+      "Divya V. Rao"
+    ],
+    "Based on": "The Phogat Sisters",
     "Starring": [
       "Aamir Khan",
       "Sakshi Tanwar",
@@ -15611,7 +15598,7 @@
     ],
     "Narrated by": "Aparshakti Khurana",
     "Music by": "Pritam",
-    "Cinematography": "Setu (Satyajit Pande)",
+    "Cinematography": "Setu",
     "Edited by": "Ballu Saluja",
     "Production companies": [
       "Aamir Khan Productions",
@@ -16085,8 +16072,7 @@
     "Directed by": "Marc Forster",
     "Produced by": [
       "Brigham Taylor",
-      "Kristin Burr",
-      "Mark Ruffalo"
+      "Kristin Burr"
     ],
     "Screenplay by": [
       "Alex Ross Perry",
@@ -16128,7 +16114,7 @@
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$70-75 million",
+    "Budget": "$65-70 million",
     "Box office": "$197.7 million"
   },
   {
@@ -16370,8 +16356,8 @@
       "Aladdin and the Magic Lamp from One Thousand and One Nights"
     ],
     "Starring": [
-      "Will Smith",
       "Mena Massoud",
+      "Will Smith",
       "Naomi Scott",
       "Marwan Kenzari",
       "Navid Negahban",
@@ -16558,7 +16544,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$185 million",
-    "Box office": "$491.7 million"
+    "Box office": "$492.1 million"
   },
   {
     "title": "Lady and the Tramp",
@@ -16595,7 +16581,10 @@
       "Walt Disney Pictures",
       "Taylor Made"
     ],
-    "Distributed by": "Walt Disney Studios Motion Pictures",
+    "Distributed by": [
+      "Walt Disney Studios Motion Pictures",
+      "Disney+"
+    ],
     "Release date": [
       "November 12, 2019 (United States)"
     ],
@@ -16915,11 +16904,7 @@
     "Music by": "Patrick Doyle",
     "Cinematography": "Haris Zambarloukos",
     "Edited by": "Matthew Tucker",
-    "Production companies": [
-      "Walt Disney Pictures",
-      "TriBeCa Productions",
-      "Marzano Films"
-    ],
+    "Production company": "Walt Disney Pictures",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
       "June 12, 2020"
@@ -16978,7 +16963,9 @@
     "title": "Black Is King",
     "Directed by": [
       "Beyoncé Knowles-Carter",
+      "Co-Director",
       "Kwasi Fordjour",
+      "Directors",
       "Emmanuel Adjei",
       "Blitz Bazawule",
       "Ibra Ake",
@@ -17168,10 +17155,10 @@
       "Elizabeth Martin"
     ],
     "Based on": [
-      "Disney's Mulan by Tony Bancroft Barry Cook",
-      "Tony Bancroft",
+      "Disney's Mulan by Barry Cook Tony Bancroft",
       "Barry Cook",
-      "Ballad of Mulan"
+      "Tony Bancroft",
+      "Ballad of Mulan by Guo Maoqian"
     ],
     "Starring": [
       "Yifei Liu",
@@ -17200,7 +17187,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$70 million (Disney+ Premier Access revenue not included)"
+    "Box office": "$70 million"
   },
   {
     "title": "Godmothered",
@@ -17263,7 +17250,9 @@
   },
   {
     "title": "Soul",
-    "Directed by": "Pete Docter",
+    "Directed by": [
+      "Pete Docter"
+    ],
     "Produced by": "Dana Murray",
     "Written by": [
       "Pete Docter",
@@ -17298,14 +17287,14 @@
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "October 11, 2020 ( BFI )",
+      "October 11, 2020 ( BFI Fest )",
       "December 25, 2020 (United States)"
     ],
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million+",
-    "Box office": "$135.7 million"
+    "Box office": "$119 million"
   },
   {
     "title": "Flora & Ulysses",
@@ -17400,7 +17389,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$100 million+",
-    "Box office": "$102.6 million"
+    "Box office": "$120.5 million"
   },
   {
     "title": "Cruella",
@@ -17420,8 +17409,9 @@
       "Steve Zissis"
     ],
     "Based on": [
-      "Disney 's One Hundred and One Dalmatians by Bill Peet",
-      "The Hundred and One Dalmatians by Dodie Smith"
+      "The Hundred and One Dalmatians",
+      "by",
+      "Dodie Smith"
     ],
     "Starring": [
       "Emma Stone",
@@ -17437,16 +17427,19 @@
     "Edited by": "Tatiana S. Riegel",
     "Production companies": [
       "Walt Disney Pictures",
-      "Gunn Films",
-      "Marc Platt Productions"
+      "Marc Platt Productions",
+      "Gunn Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
+      "May 18, 2021 ( El Capitan Theatre )",
       "May 28, 2021 (United States)"
     ],
     "Running time": "134 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget": "$100–200 million",
+    "Box office": "$160.4 million"
   },
   {
     "title": "Luca",
@@ -17456,14 +17449,23 @@
       "Jesse Andrews",
       "Mike Jones"
     ],
+    "Story by": [
+      "Enrico Casarosa",
+      "Jesse Andrews",
+      "Simon Stephenson"
+    ],
     "Starring": [
       "Jacob Tremblay",
       "Jack Dylan Grazer",
       "Emma Berman",
-      "Marco Barricelli",
       "Saverio Raimondo",
       "Maya Rudolph",
-      "Jim Gaffigan"
+      "Marco Barricelli",
+      "Jim Gaffigan",
+      "Peter Sohn",
+      "Lorenzo Crisci",
+      "Marina Massironi",
+      "Sandy Martin"
     ],
     "Music by": "Dan Romer",
     "Cinematography": [
@@ -17478,15 +17480,18 @@
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
-    "Distributed by": [
-      "Walt Disney Studios",
-      "Motion Pictures"
-    ],
+    "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
+      "June 13, 2021 ( Aquarium of Genoa )",
       "June 18, 2021 (United States)"
     ],
+    "Running time": "95 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Languages": [
+      "English",
+      "Italian"
+    ],
+    "Box office": "$5 million"
   },
   {
     "title": "Jungle Cruise",
@@ -17523,10 +17528,7 @@
       "Jesse Plemons",
       "Paul Giamatti"
     ],
-    "Music by": [
-      "James Newton Howard",
-      "Metallica"
-    ],
+    "Music by": "James Newton Howard",
     "Cinematography": "Flavio Labiano",
     "Edited by": "Joel Negron",
     "Production companies": [
@@ -17539,42 +17541,8 @@
     "Release date": [
       "July 30, 2021 (United States)"
     ],
+    "Running time": "90 minutes",
     "Country": "United States",
-    "Language": "English"
-  },
-  {
-    "title": "The Beatles: Get Back",
-    "Directed by": "Peter Jackson",
-    "Produced by": [
-      "Peter Jackson",
-      "Clare Olssen",
-      "Jonathan Clyde"
-    ],
-    "Starring": [
-      "John Lennon",
-      "Paul McCartney",
-      "George Harrison",
-      "Ringo Starr"
-    ],
-    "Music by": "The Beatles",
-    "Edited by": "Jabez Olssen",
-    "Production companies": [
-      "Walt Disney Pictures",
-      "Apple Corps",
-      "WingNut Films"
-    ],
-    "Distributed by": [
-      "Walt Disney Studios",
-      "Motion Pictures"
-    ],
-    "Release date": [
-      "27 August 2021"
-    ],
-    "Countries": [
-      "United Kingdom",
-      "New Zealand",
-      "United States"
-    ],
     "Language": "English"
   },
   {
@@ -17608,6 +17576,48 @@
     "Language": "English"
   },
   {
+    "title": "Disenchanted",
+    "Directed by": "Adam Shankman",
+    "Produced by": [
+      "Barry Josephson",
+      "Amy Adams",
+      "Barry Sonnenfeld"
+    ],
+    "Written by": [
+      "Adam Shankman",
+      "Brigette Hales",
+      "Richard LaGravenese",
+      "Scott Neustadter",
+      "Michael H. Weber"
+    ],
+    "Based on": [
+      "Characters",
+      "by",
+      "Bill Kelly"
+    ],
+    "Starring": [
+      "Amy Adams",
+      "Patrick Dempsey",
+      "James Marsden",
+      "Idina Menzel",
+      "Maya Rudolph",
+      "Yvette Nicole Brown",
+      "Jayma Mays",
+      "Oscar Nunez"
+    ],
+    "Music by": "Alan Menken",
+    "Production companies": [
+      "Walt Disney Pictures",
+      "Josephson Entertainment",
+      "Andalasia Productions",
+      "Right Coast Productions"
+    ],
+    "Distributed by": "Disney+",
+    "Release date": "2022",
+    "Country": "United States",
+    "Language": "English"
+  },
+  {
     "title": "Peter Pan & Wendy",
     "Directed by": "David Lowery",
     "Produced by": [
@@ -17625,14 +17635,14 @@
     "Starring": [
       "Alexander Molony",
       "Ever Anderson",
+      "Yara Shahidi",
       "Joshua Pickering",
       "Jacobi Jupe",
-      "Yara Shahidi",
-      "Jude Law",
-      "Jim Gaffigan",
       "Alyssa Wapanatâhk",
       "Molly Parker",
-      "Alan Tudyk"
+      "Alan Tudyk",
+      "Jim Gaffigan",
+      "Jude Law"
     ],
     "Cinematography": "Bojan Bazelli",
     "Production companies": [
@@ -17646,6 +17656,43 @@
     ],
     "Country": "United States",
     "Language": "English"
+  },
+  {
+    "title": "Hocus Pocus",
+    "Directed by": "Kenny Ortega",
+    "Produced by": [
+      "David Kirschner",
+      "Steven Haft"
+    ],
+    "Screenplay by": [
+      "Mick Garris",
+      "Neil Cuthbert"
+    ],
+    "Story by": [
+      "David Kirschner",
+      "Mick Garris"
+    ],
+    "Starring": [
+      "Bette Midler",
+      "Sarah Jessica Parker",
+      "Kathy Najimy",
+      "Omri Katz",
+      "Thora Birch",
+      "Vinessa Shaw"
+    ],
+    "Music by": "John Debney",
+    "Cinematography": "Hiro Narita",
+    "Edited by": "Peter E. Berger",
+    "Production company": "Walt Disney Pictures",
+    "Distributed by": "Buena Vista Pictures",
+    "Release date": [
+      "July 16, 1993"
+    ],
+    "Running time": "96 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$28 million",
+    "Box office": "$44.9 million"
   },
   {
     "title": "The Little Mermaid",
@@ -17682,9 +17729,9 @@
       "Melissa McCarthy"
     ],
     "Music by": [
-      "Alan Menken (score and songs)",
-      "Howard Ashman (classic songs)",
-      "Lin-Manuel Miranda (new songs)"
+      "Alan Menken (score & songs)",
+      "Howard Ashman (classic lyrics)",
+      "Lin-Manuel Miranda (new lyrics)"
     ],
     "Cinematography": "Dion Beebe",
     "Edited by": "Wyatt Smith",
@@ -17766,47 +17813,11 @@
       "Mandeville Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
+    "Release date": [
+      "2022"
+    ],
     "Country": "United States",
     "Language": "English"
-  },
-  {
-    "title": "Enchanted",
-    "Directed by": "Kevin Lima",
-    "Produced by": [
-      "Barry Josephson",
-      "Barry Sonnenfeld"
-    ],
-    "Written by": "Bill Kelly",
-    "Starring": [
-      "Amy Adams",
-      "Patrick Dempsey",
-      "James Marsden",
-      "Timothy Spall",
-      "Idina Menzel",
-      "Susan Sarandon"
-    ],
-    "Music by": "Alan Menken",
-    "Cinematography": "Don Burgess",
-    "Edited by": [
-      "Gregory Perler",
-      "Stephen A. Rotter"
-    ],
-    "Production companies": [
-      "Walt Disney Pictures",
-      "Josephson Entertainment",
-      "Andalasia Productions",
-      "Right Coast Productions"
-    ],
-    "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "October 20, 2007 ( London )",
-      "November 21, 2007 (United States)"
-    ],
-    "Running time": "107 minutes",
-    "Country": "United States",
-    "Language": "English",
-    "Budget": "$85 million",
-    "Box office": "$340.5 million"
   },
   {
     "title": "Pinocchio",
@@ -17828,13 +17839,13 @@
       "Carlo Collodi"
     ],
     "Starring": [
+      "Tom Hanks",
       "Benjamin Evan Ainsworth",
       "Joseph Gordon-Levitt",
-      "Tom Hanks",
-      "Cynthia Erivo",
+      "Lorraine Bracco",
       "Keegan-Michael Key",
-      "Luke Evans",
-      "Lorraine Bracco"
+      "Cynthia Erivo",
+      "Luke Evans"
     ],
     "Music by": "Alan Silvestri",
     "Production companies": [
@@ -17846,5 +17857,29 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 \nmillion"
+  },
+  {
+    "title": "Hollywood Stargirl",
+    "Directed by": "Julia Hart",
+    "Produced by": [
+      "Ellen Goldsmith-Vein",
+      "Lee Stollman"
+    ],
+    "Screenplay by": [
+      "Jordan Horowitz",
+      "Julia Hart"
+    ],
+    "Starring": [
+      "Elijah Richardson",
+      "Grace VanderWaal",
+      "Uma Thurman"
+    ],
+    "Production companies": [
+      "Walt Disney Pictures",
+      "Gotham Group"
+    ],
+    "Distributed by": "Disney+",
+    "Country": "United States",
+    "Language": "English"
   }
 ]
